@@ -1,0 +1,29 @@
+container-----class added padding and mardin
+
+container-fluid      class accupied whole skin.
+
+
+
+
+=======================grid create=============================
+
+
+row     create a row..
+
+
+
+col-3     take three column space
+
+col-lg-3     responsive.. skin large ... then take 3 col.   
+
+
+col-md-6    take 6 col space   mediam device
+
+col-sm-12...  small device
+ <div class="col-lg-3 col-md-6">
+
+
+ sm(small) ---<576px
+ md(medium)  ---<768px
+ lg(lerge)  ----<992px
+ xl (xlarge)   ---1200px

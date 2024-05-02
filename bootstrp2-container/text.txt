@@ -1,0 +1,3 @@
+container-----class added padding and mardin
+
+container-fluid      class accupied whole skin.
